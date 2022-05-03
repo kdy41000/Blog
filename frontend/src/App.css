@@ -1,0 +1,27 @@
+/*.App {
+  text-align: center;
+}*/
+
+.header_btn {
+  position: absolute;
+  margin-left: 90%;
+}
+
+.section {
+  padding: 50px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
